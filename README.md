@@ -48,8 +48,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Program :
-Developed by: Manoj M
-Reg no:212221240027
+Developed by: Selva Kumar A
+Reg no:21222110042
 ~~~
 import numpy as np
 L=[int(i) for i in input().split()]
@@ -75,7 +75,8 @@ print("The Variance of arrival from feeder is %.3f"%var)
 print("The Standard deviation of arrival from feeder is %.3f"%SD)
 ~~~
 ### Output :
-![2](https://user-images.githubusercontent.com/94588708/197119367-2f1a386b-8ff7-4b68-b98f-167f6063d5db.png)
+![image](https://user-images.githubusercontent.com/120643262/233151918-50b4ca1f-9831-4196-be0a-d1b3d0d819f1.png)
+
 
 
 
